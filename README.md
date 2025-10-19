@@ -12,7 +12,7 @@
 I’m a Full-Stack Developer passionate about building efficient, scalable, and well-structured systems — from backend APIs to interactive web and mobile experiences.  
 Currently, I develop APIs and applications using **Go**, **AWS**, **React**, and **React Native**, while continuing to explore new technologies that improve performance, maintainability, and user experience.
 
-I’m also a **Computer Science undergraduate at UFCA**, where I’ve combined my academic journey with real-world projects in **software architecture**, **educational game development**, and **cloud-based backend systems**.
+I’m also a **Computer Science bachelor at UFCA**, where I’ve combined my academic journey with real-world projects in **software architecture**, **educational game development**, and **cloud-based backend systems**.
 
 ---
 
