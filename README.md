@@ -30,7 +30,6 @@ I’m also a **Computer Science bachelor at UFCA**, where I’ve combined my aca
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/danilo-lacerda-785322323/)  
-- 💻 [GitHub](https://github.com/Daniloxls)
 
 ---
 
